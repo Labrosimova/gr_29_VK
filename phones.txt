@@ -1,8 +1,10 @@
 1) Iphone 11
 2) Iphone 12
+<<<<<<< HEAD
 3) Xiaomi
 4) wodaphone
 5) sony
 6) Lenaphone
 7) samsung
-
+8) bla-bla phone
+9) oppo m100
